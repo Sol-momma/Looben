@@ -1,7 +1,5 @@
 # Looben
 
-[※ You can move to the site from here](http://looben.org)  
-
 1. Overview
 2. Used Technologies
 
