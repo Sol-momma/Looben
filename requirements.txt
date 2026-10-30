@@ -1,7 +1,7 @@
 Django==4.0.6
 django-allauth==0.51.0
 django-summernote==0.8.20.0
-djangorestframework==3.14.0
+djangorestframework==3.18.2
 gunicorn
 psycopg2-binary
 django-environ~=0.4.5
